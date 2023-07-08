@@ -1,10 +1,12 @@
-# Twitter Sentimental Analysis
+# Twitter Sentimental Analysis with Deep Learning
 
 Check out the live demo: https://huggingface.co/spaces/Puyush/Twitter_Sentimental_Analysis
 
 Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
 
-Twitter Sentimental Analysis is a project based on NLP (Natural Language Processing ) which uses different Python libraries to analyze the tweets after inputting a text it categorize into 2 categories Positive and Negative.
+This project is a Twitter sentiment analysis tool developed using deep learning techniques to analyze tweets' sentiments. The aim of this project is to provide insights into the sentiment expressed by Twitter users towards specific topics or entities. It utilizes a combination of Tokenization, GloVe Word Embeddings, Bidirectional LSTM (Long Short-Term Memory), and an Attention layer to analyze and classify tweets' sentiment (Positive and Negative).
+
+⭐️ If you find this project useful or interesting, please consider giving it a star! ⭐️
 
 Happy sentiment analysis!
 
