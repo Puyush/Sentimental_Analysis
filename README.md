@@ -1,5 +1,7 @@
 # Twitter Sentimental Analysis with Deep Learning
 
+Understanding Sentiment of others can be tough. Let's make it a breeze..!
+
 Check out the live demo: https://huggingface.co/spaces/Puyush/Twitter_Sentimental_Analysis
 
 Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
